@@ -31,7 +31,7 @@ Add a screenshot of one of your strongest query results here.
 
 Example:
 
-![Fraud Detection Query Result](screenshots/p11_velocity_spike.png)
+![Fraud Detection Query Result](screenshot/P11_Velocity_spike1.png)
 
 ## 📁 Project Structure
 
