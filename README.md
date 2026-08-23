@@ -27,7 +27,7 @@ RedFlag is a pure SQL fraud detection project built to identify suspicious trans
 
 ## 📊 Project Screenshot
 
-Add a screenshot of one of your strongest query results here.
+
 
 Example:
 
