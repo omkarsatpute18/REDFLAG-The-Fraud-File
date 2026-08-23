@@ -41,9 +41,9 @@ RedFlag/
 ├── README.md
 ├── RedFlag_OmkarSatpute.sql
 └── screenshots/
-    ├── p8_merchant_collusion.png
-    ├── p11_velocity_spike.png
-    └── p6_mule-account.png
+    ├── P8_Merchant_Collusion.png
+    ├── P11_Velocity_spike.png
+    └── P6-Mule_account.png
 ```
 
 ## 🎯 Project Objective
