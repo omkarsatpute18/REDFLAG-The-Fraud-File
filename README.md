@@ -39,11 +39,11 @@ Example:
 RedFlag/
 │
 ├── README.md
-├── RedFlag_YourName.sql
+├── RedFlag_OmkarSatpute.sql
 └── screenshots/
     ├── p8_merchant_collusion.png
     ├── p11_velocity_spike.png
-    └── p12_geographic_impossibility.png
+    └── p6_mule-account.png
 ```
 
 ## 🎯 Project Objective
